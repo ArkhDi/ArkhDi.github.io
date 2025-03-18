@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
   }
    
    .gallery-container {
@@ -435,6 +436,7 @@
   text-align: center;
   padding-top: 40px;
   padding-bottom: 20px;
+  
   }
   .main-title {
     font-size: 54px;
@@ -562,6 +564,8 @@
   }
   /* cyrillic-ext */
 @font-face {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -571,6 +575,8 @@
 }
 /* cyrillic */
 @font-face {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -580,6 +586,8 @@
 }
 /* greek-ext */
 @font-face {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -589,6 +597,8 @@
 }
 /* greek */
 @font-face {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -598,6 +608,8 @@
 }
 /* vietnamese */
 @font-face {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -607,6 +619,8 @@
 }
 /* latin-ext */
 @font-face {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -616,6 +630,8 @@
 }
 /* latin */
 @font-face {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
